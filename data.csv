@@ -1,8 +1,0 @@
-ID,JOB_NAME,instance,status
-1,ronit-test12345^qnd,qnd,success
-2,ronit-test-cmd^qha,qha,success
-3,ronit-test-cmd^qnf,qnf,success
-4,ronit--test12^qnb,qnb,success
-5,ronit-test^qnf,qnf,success
-6,ronit-test1^qnf,qnf,success
-7,ronit-test^qnb,qnb,success
